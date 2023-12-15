@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
+This is based on a paper https://www.researchgate.net/publication/340480097_Spectral_Filter_Selection_for_Increasing_Chromatic_Diversity_in_CVD_Subjects
+Martínez-Domingo, Miguel & Valero, E. & Gómez-Robledo, Luis & Huertas, Rafael & Hernández-Andrés, Javier. (2020). Spectral Filter Selection for Increasing Chromatic Diversity in CVD Subjects. Sensors. 20. 2023. 10.3390/s20072023.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
